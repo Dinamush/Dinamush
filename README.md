@@ -6,8 +6,10 @@ Hi! I'm Samir, a data-driven professional with a passion for uncovering hidden i
 In addition to my data science journey, I'm an award-winning national youth writer and poet. My diverse interests include volunteering, astronomy, physics, and martial arts.
 
 ## Skills
+- **Programming Languages:** Python, HTML, CSS, C, JavaScript
 - **Data Science:** Python, SQL, Pandas
-- **Machine Learning:** Predictive modeling, Classification, Regression
+- **Machine Learning:** Predictive modeling, Classification, Regression, SciKitLearn, MatPlotLib, Seaborn
+- **Deep Learning:** Tensorflow, Keras 
 - **Analytical Skills:** Methodical problem-solving approach
 - **Writing:** Award-winning national youth writer and poet
 
