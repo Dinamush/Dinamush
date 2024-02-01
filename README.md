@@ -72,23 +72,18 @@ In addition to my data science journey, I'm an award-winning national youth writ
 - Award-winning national youth writer and poet.
 
 
-## Skills
-- **Programming Languages:** Python, HTML, CSS, C, JavaScript
-- **Data Science:** Python, SQL, Pandas
-- **Machine Learning:** Predictive modeling, Classification, Regression, SciKitLearn, MatPlotLib, Seaborn
-- **Deep Learning:** Tensorflow, Keras 
-- **Analytical Skills:** Methodical problem-solving approach
-- **Writing:** Award-winning national youth writer and poet
-
 ## Education
+
 - **University of Guyana**
   - *Associate of Science - Physics*
-    - Jun 2021 - Jun 2023
-    - President of University of Guyana Astronomical Society
-    - Volunteer for Department of Mathematics, Physics, and Statistics career days
+    - 📅 Jun 2021 - Jun 2023
+    - 🌌 President of University of Guyana Astronomical Society
+    - 🤝 Volunteer for Department of Mathematics, Physics, and Statistics career days
+
   - *Bachelor of Science - Computer Science*
-    - Aug 2023 - Jul 2027
-    - Skills: Machine Learning, SQL, Python, Pandas
+    - 📅 Aug 2023 - Jul 2027
+    - 🚀 Skills: Machine Learning, SQL, Python, Pandas
+
 
 ## Certifications
 - **Cisco**
