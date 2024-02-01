@@ -4,37 +4,39 @@
 Hi! I'm Samir, a data-driven professional with a passion for uncovering hidden insights in data. Currently studying Data Science, Machine Learning, and analytics, I approach problems methodically, creatively, and analytically. My expertise lies in building machine learning models to predict and classify, addressing real-world challenges by identifying crucial predictors and assessing the long-term impact of business decisions.
 
 In addition to my data science journey, I'm an award-winning national youth writer and poet. My diverse interests include volunteering, astronomy, physics, and martial arts.
+
 ## Tech Stack
 
 - **Python:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - Primary language for general programming and data science.
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    - Primary language for general programming and data science.
 
 - **HTML/CSS:**
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  - Web development for creating visually appealing interfaces.
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    - Web development for creating visually appealing interfaces.
 
 - **C:**
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-  - Core programming language for system-level development.
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+    - Core programming language for system-level development.
 
 - **JavaScript:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - Enhancing interactivity in web applications.
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    - Enhancing interactivity in web applications.
 
 ## Data Science
 
 - **Python:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - Core language for data manipulation and analysis.
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    - Core language for data manipulation and analysis.
 
 - **SQL:**
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-  - Database querying for efficient data retrieval.
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+    - Database querying for efficient data retrieval.
 
 - **Pandas:**
-  - Data manipulation library for Python.
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+    - Data manipulation library for Python.
 
 ## Machine Learning
 
@@ -45,23 +47,23 @@ In addition to my data science journey, I'm an award-winning national youth writ
   - Solving problems through supervised learning.
 
 - **SciKitLearn:**
-  - ![SciKitLearn](https://img.shields.io/badge/-SciKitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-  - Machine learning library for Python.
+  - ![SciKitLearn](https://img.shields.io/badge/-SciKitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    - Machine learning library for Python.
 
 - **Matplotlib/Seaborn:**
-  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-  - Visualization libraries for Python.
+  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    - Visualization libraries for Python.
 
 ## Deep Learning
 
 - **TensorFlow:**
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-  - Deep learning framework.
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    - Deep learning framework.
 
 - **Keras:**
-  - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-  - High-level neural networks API.
+  - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+    - High-level neural networks API.
 
 ## Analytical Skills
 
@@ -70,6 +72,7 @@ In addition to my data science journey, I'm an award-winning national youth writ
 ## Writing
 
 - Award-winning national youth writer and poet.
+
 
 
 ## Education
