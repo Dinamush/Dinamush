@@ -24,6 +24,11 @@ In addition to my data science journey, I'm an award-winning national youth writ
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     - Enhancing interactivity in web applications.
 
+- ### Tools:
+- ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Jupyter Labs](https://img.shields.io/badge/-Jupyter%20Labs-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Data Science
 
 - **Python:**
