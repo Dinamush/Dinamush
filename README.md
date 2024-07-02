@@ -31,6 +31,42 @@ In addition to my data science journey, I'm an award-winning national youth writ
   - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
   - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
     - Frameworks for building and training deep learning models.
+   
+## Experience
+
+### V75 Inc.
+**Natural Language Processing Engineer (Apprenticeship)**
+**Date:** May 2024 - Present (3 mos)
+**Location:** Demerara-Mahaica, Guyana (Remote)
+- Conducted research and development of generative AI agents utilizing advanced Natural Language Processing (NLP) techniques.
+- Monitored and evaluated agent performance and accuracy using metrics such as recall, precision, and F1 score against established ground truths. Implemented rigorous evaluation protocols to ensure reliability and effectiveness of AI agents.
+- Configured and fine-tuned AI agents to adhere to specified directives, ensuring compliance with performance standards and client specifications.
+- Collaborated with cross-functional teams to integrate AI solutions, contributing to continuous improvement and innovation in AI capabilities.
+- **Skills:** Python (Programming Language), Artificial Intelligence (AI), Generative AI Tools, Deep Learning (PyTorch), NLP.
+
+### V75 Inc.
+**Generative AI Engineer (Internship)**
+**Date:** Feb 2024 - May 2024 (4 mos)
+**Location:** Georgetown, Demerara-Mahaica, Guyana
+- Developed and configured AI agents utilizing the Jaseci framework to execute user-specific tasks, including Named Entity Recognition (NER) and Retrieval-Augmented Generation (RAG).
+- Implemented AI agents capable of performing API calls to interact with users, enhancing functionality and user experience.
+- Optimized AI agents to efficiently handle complex tasks, ensuring high performance and accuracy.
+- **Skills:** Python (Programming Language), Generative AI Tools.
+
+### CodeAlpha
+**Data Scientist (Internship)**
+**Date:** Mar 2024 - Present (5 mos)
+**Location:** Lucknow, Uttar Pradesh, India (Remote)
+- Specialized in data visualization techniques to present complex data insights.
+- **Skills:** Data Visualization, Python (Programming Language), Machine Learning.
+
+### AstroPhotosGY
+**Freelance Astrophotographer (Self-employed)**
+**Date:** Oct 2023 - Present (10 mos)
+**Location:** Guyana
+- Astrophotographer and social media manager, using high-level image processing techniques to reveal and accentuate cosmic details.
+- **Link:** [Instagram - AstroPhotosGY](https://www.instagram.com/astrophotos_gy/)
+
 
 ## Education
 
@@ -43,6 +79,7 @@ In addition to my data science journey, I'm an award-winning national youth writ
   - *Bachelor of Science - Computer Science*
     - 📅 Aug 2023 - Jul 2027
     - 🚀 Skills: Machine Learning, SQL, Python, Pandas
+
 
 
 ## Certifications
