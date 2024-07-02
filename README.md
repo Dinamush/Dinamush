@@ -1,4 +1,4 @@
-# Samir Mohammed - Data Scientist and Writer
+# Samir Mohammed - Data Scientist and AI Engineer
 
 ## Summary
 Hi! I'm Samir, a data-driven professional with a passion for uncovering hidden insights in data. Currently studying Data Science, Machine Learning, and analytics, I approach problems methodically, creatively, and analytically. My expertise lies in building machine learning models to predict and classify, addressing real-world challenges by identifying crucial predictors and assessing the long-term impact of business decisions.
@@ -13,72 +13,24 @@ In addition to my data science journey, I'm an award-winning national youth writ
 
 - **HTML/CSS:**
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    - Web development for creating visually appealing interfaces.
-
-- **C:**
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-    - Core programming language for system-level development.
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    - Used for web development.
 
 - **JavaScript:**
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    - Enhancing interactivity in web applications.
+    - For dynamic web content.
 
-- ### Tools:
-- ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![Jupyter Labs](https://img.shields.io/badge/-Jupyter%20Labs-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Data Science
-
-- **Python:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    - Core language for data manipulation and analysis.
-
-- **SQL:**
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-    - Database querying for efficient data retrieval.
-
-- **Pandas:**
+- **Data Science & Machine Learning:**
   - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-    - Data manipulation library for Python.
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    - Libraries for data manipulation, analysis, and machine learning.
 
-## Machine Learning
-
-- **Predictive Modeling:**
-  - Leveraging algorithms for forecasting.
-
-- **Classification/Regression:**
-  - Solving problems through supervised learning.
-
-- **SciKitLearn:**
-  - ![SciKitLearn](https://img.shields.io/badge/-SciKitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    - Machine learning library for Python.
-
-- **Matplotlib/Seaborn:**
-  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    - Visualization libraries for Python.
-
-## Deep Learning
-
-- **TensorFlow:**
+- **Deep Learning:**
   - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-    - Deep learning framework.
-
-- **Keras:**
   - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-    - High-level neural networks API.
-
-## Analytical Skills
-
-- Methodical problem-solving approach.
-
-## Writing
-
-- Award-winning national youth writer and poet.
-
-
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+    - Frameworks for building and training deep learning models.
 
 ## Education
 
