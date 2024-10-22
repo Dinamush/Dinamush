@@ -10,6 +10,9 @@ In addition to my data science journey, I'm an award-winning national youth writ
 - **Python:**
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     - Primary language for general programming and data science.
+    - Primary language for general programming and data science.
+    - Used for business application development.
+    - Utilized in computational physics and simulation programming.
 
 - **HTML/CSS:**
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
